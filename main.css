@@ -1,0 +1,108 @@
+body {
+  background-color : rgb (200,200,200);
+}
+
+li {
+        color: rgb(45,200,200);
+     font-size: 24px;
+      }
+      
+
+
+
+h3{
+  color: rgb(205,14,45);
+    text-decoration: underline;
+}
+
+table{
+  border: 2px dotted rgb (210,65,225); 
+}
+
+body{
+color: Black ;
+font-size: 24 px;
+}
+
+th{
+  background color: rgb (200,200,200);
+    color: red;
+}
+
+
+td
+{
+border: dotted 30px rgb (240,236,90);
+}
+
+  middle.
+{
+  background-color: rgb  (198,44,240);
+}
+
+.middle{
+  background-color: Black;
+}
+
+P{
+  FONT-SIZE: 18px;
+}
+
+#topPara{
+  font-style: italic;
+  font-size: 20px;
+}
+
+body{
+background-color: Red
+}
+
+#bottomP {
+  background-color: rgb(50,180,100)
+}
+ body{
+                background-color: #8CF5F5;  
+                font-family: White ;
+            }
+            
+            h1 {
+                color: #0D0DD9;
+            }
+            
+            h2 {
+                color: #0D0DD9;
+            }
+            
+            h3 {
+                color: #0D0DD9;
+            }
+            
+            img.profilePic {
+                width: 250px;
+            }
+            
+            #css {
+                font-style: italic;
+                color: #BB00CC;
+            }
+            
+            p {
+                font-size: 18px;
+            }
+            
+            canvas {
+                border: 1px solid black;
+                background-color: white;
+            }
+body{
+  text-align: center;
+  background-color: #bbbbbb;
+}
+
+iframe{
+  height: 315px;
+  width: 560px;
+}
+
+@keyframe invert-image {
+  from {
